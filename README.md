@@ -4,7 +4,7 @@ webapp for the COSACO initiative of La Romana, Dominican Republic (el sitio del 
 
 ## main goals and technolgies:
 
-- to start this will be a `go` driven web app, which will allow future expansion into an API backend which can serve several frontends (mobile apps, web apps, etc.) for data-sharing and collaboration functionalities later on
+- to start this will be a [`golang`](golang.org) driven web app, which will allow future expansion into an API backend which can serve several frontends (mobile apps, web apps, etc.) for data-sharing and collaboration functionalities later on
 - this whole thing will be rolled out in a interative way, so from step 1 we will have zero downtime upgrades built in
 - as more features get added the binary will be seamlessly updated
 
