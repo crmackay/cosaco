@@ -8,6 +8,8 @@ webapp for the COSACO initiative of La Romana, Dominican Republic (el sitio del 
 - this whole thing will be rolled out in a interative way, so from step 1 we will have zero downtime upgrades built in
 - as more features get added the binary will be seamlessly updated
 
+- see ideas [here](https://docs.google.com/document/d/12b7MaSla2uKhMK9sewEevJHai1DO84s9vq3e-SUWU1c/edit?usp=sharing)
+
 ### features:
 
 - version 0.1:
@@ -15,12 +17,16 @@ webapp for the COSACO initiative of La Romana, Dominican Republic (el sitio del 
     - set up githook that pulls, builds, find the PID for the current server and kills it
     - use [endless](https://github.com/fvbock/endless) to gracefully reload
   - homepage
+  	- pages are in a buffer
+  - data stored in a json files
+  	- page buffers update when json files update
+  	- [use fsnotify](https://godoc.org/gopkg.in/fsnotify.v1)
+  - spanish and English toggle
   - i18n (Spanish and English, with translator-editable files)
-  - store team information in flat-files
-    - toml files
-    - watch for updates and update the database entry upon change [use fsnotify](https://godoc.org/gopkg.in/fsnotify.v1)
-    - when a change happens, update datatase
-  - database of team info (via [BoltDB](http://npf.io/2014/07/intro-to-boltdb-painless-performant-persistence/))
   - members page
     - a page for each member, with details, contact info etc.
+
+- version 0.2
+	- database instead of data instead of json
+	- notifyer...on update push to pages
    
