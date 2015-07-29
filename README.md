@@ -1,6 +1,6 @@
 # cosaco
 
-[![Build Status](https://travis-ci.org/crmackay/cosaco.svg?branch=master)](https://travis-ci.org/crmackay/cosaco)[![Coverage Status](https://coveralls.io/repos/crmackay/cosaco/badge.svg?branch=master&service=github)](https://coveralls.io/github/crmackay/cosaco?branch=master)
+[![Build Status](https://travis-ci.org/crmackay/cosaco.svg?branch=master)](https://travis-ci.org/crmackay/cosaco) [![Coverage Status](https://coveralls.io/repos/crmackay/cosaco/badge.svg?branch=master&service=github)](https://coveralls.io/github/crmackay/cosaco?branch=master)
 
 webapp for the COSACO initiative of La Romana, Dominican Republic (el sitio del la colaboración de COSACO de La Romana, Republica Dominicana)
 
