@@ -1,0 +1,24 @@
+[name]
+en = "University of Illinois at Chicago"
+es = "La Universidad de Illinois en Chicago"
+
+[primaryContact]
+name = "Stockton Mayer"
+phone = "+1-312-996-6732"
+email = "smayer75@edu"
+
+[summary]
+es = "El Departamento de Enfermedades Infecciosas de la Universidad de Illinois (UIC), Chicago facilita educación avanzada en temas relacionados con VIH.  Colaboramos con profesionales médicos en la provincia de La Romana para elaborar proyectos educativos enfocados en el manejo de pacientes infectados por el virus.",
+en = "The Department of Infectious Diseases of the University of Illinois at Chicago (UIC) facilitates advanced education on topics related to HIV. We Collaborate with medical professionals in the province of La Romana to create educational projects that focus on the management of patients infected with HIV."
+
+[locations]
+es = "UIC realiza proyectos en La Romana, Guaymate y sus alrededores."
+en = "UIC has ongoing projects in La Romana, Guaymate, and the surrounding communities"
+
+[researchOngoing]
+es = "Con el apoyo de Clínica de Familia en La Romana, La Universidad de Illinois investiga la circuncisión masculina en hombres heterosexuales como método de reducir el riesgo de infección por el VIH."
+en = "With the assistance of the Clínica de Familia, UIC is investigating curcumscision of heterosexual males as a method of reducing the risk of HIV infection."
+
+[researchGoals]
+es = "Las investigaciones enfocan en la aceptabilidad del procedimiento y la habilidad de introducir la circuncisión masculina en una sociedad no habituada al procedimiento."
+en = "The investigations focus on the acceptability of the procedure and ability of introducing male circumscision in a society that is not accostomed to the procedure."
